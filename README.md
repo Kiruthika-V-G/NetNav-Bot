@@ -7,21 +7,21 @@ their functions to give their output . The objective of this Command-Bot is to s
 of a computer system and make it user-friendly
 User Interface : JavaFx
 Commands used are :
-● record audio
-● stop recording
-● date
-● time
-● help
-● restore
-● delete
-● convert image
-● rename
-● openfile
-● openfolder
-● fprop
-● exec
-● inet
-● mathematical operations
+record audio
+stop recording
+date
+time
+help
+restore
+delete
+convert image
+rename
+openfile
+openfolder
+fprop
+exec
+inet
+mathematical operations
 
 ![image](https://github.com/Kiruthika-V-G/NetNav-Bot/assets/148839506/3f70f2a9-ac8d-462a-a08f-f5c241804093)
 
