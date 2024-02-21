@@ -4,7 +4,7 @@ subsystem such that an interactive bot is made with the functionalities similar 
 functionalities are outputted in a display screen interface provided by JavaFX . The Bot is trained
 to give to a list / data of inputs–responses . The respective commands also has been linked to
 their functions to give their output . The objective of this Command-Bot is to simplify the usage
-of a computer system and make it user-friendly
+of a computer system and make it user-friendly and responsive
 User Interface : JavaFx
 Commands used are :
 record audio,
